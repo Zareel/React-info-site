@@ -42,8 +42,4 @@ function myComponent() {
 
 ans: The component name to be start with capital letter
 
-# 8. What is wrong with this code?
 
-```javascript
-
-```
